@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915486119537",
+    "project_id": "studenttimetable-b1778",
+    "storage_bucket": "studenttimetable-b1778.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915486119537:android:4e9c8d644893125275edd0",
+        "android_client_info": {
+          "package_name": "com.example.studenttimetableapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRl4lJDyw5I5kgOulqrGMtexKaamm9u08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
