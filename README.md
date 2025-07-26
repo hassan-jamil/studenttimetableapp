@@ -9,12 +9,11 @@ A student-friendly timetable management app built using Flutter,Provider, and Fl
 -  Schedule notifications using start time
 
  Screenshots
+ 
+| Home Screen | Calendar View  |
+|---------------|-------------|
+| ![Calendar](https://github.com/user-attachments/assets/bda822c4-619e-458b-8667-6e20563927de) | ![Home](https://github.com/user-attachments/assets/43de85af-88b4-4858-97a2-d6a234c05475) |
 
-| Calendar View |Home Screen |
-|-------------|---------------|
-| ![Home](![WhatsApp Image 2025-07-26 at 16 12 01_b0693471](https://github.com/user-attachments/assets/bda822c4-619e-458b-8667-6e20563927de)
-) | ![Calendar](![WhatsApp Image 2025-07-26 at 16 12 00_47a5f906](https://github.com/user-attachments/assets/43de85af-88b4-4858-97a2-d6a234c05475)
-) |
 
  Tech Stack
 
